@@ -1,1 +1,10 @@
 init t3.txt
+
+
+
+
+
+
+
+
+line10: hello
