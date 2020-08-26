@@ -7,4 +7,20 @@ init t3.txt
 
 
 
+<<<<<<< Updated upstream
 line10: hello
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+line20: add line
+>>>>>>> Stashed changes
